@@ -62,3 +62,4 @@ int main() {
 	while (true) {
 		cout << endl;
 		cout << "\n***Stack Menu***\n";
+		cout << "1. Push\n";
